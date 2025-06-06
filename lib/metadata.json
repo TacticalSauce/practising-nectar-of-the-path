@@ -1,6 +1,6 @@
 {
   "vaultName": "Nectar of the Path",
-  "lastExport": 1749169022513,
+  "lastExport": 1749174913540,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": true,
@@ -87,7 +87,61 @@
     "lib/html/custom-head-content.html",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path-session-intro-lama-trinley.mp3",
+    "attachments/daily-chants/mingyur-rinpoche/daily-chants,-01-refuge-and-bodhichitta-mingyur-rinpoche.mp3",
+    "attachments/daily-chants/lama-trinley/daily-chants,-01-refuge-and-bodhichitta-lama-trinley.mp3",
+    "attachments/daily-chants/lama-yadie/daily-chants,-01-refuge-and-bodhicitta-lama-yadie.mp3",
+    "attachments/daily-chants/mingyur-rinpoche/daily-chants,-02-the-four-immeasurables-mingyur-rinpoche.mp3",
+    "attachments/daily-chants/lama-trinley/daily-chants,-02-the-four-immeasurables-lama-trinley.mp3",
+    "attachments/daily-chants/lama-yadie/daily-chants,-02-the-four-immeasurables-lama-yadie.mp3",
+    "attachments/daily-chants/lama-yadie/daily-chants,-03-supplication-to-the-dakpo-kagyu-lama-yadie.mp3",
+    "attachments/daily-chants/lama-yadie/daily-chants,-04-mandala-offering-lama-yadie.mp3",
+    "attachments/heart-sutra/heart-sutra-prajna-paramita-hridaya-mantra-chant-with-english-translation-lama-rinpoche.mp4",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-01-precious-human-life-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-01-precious-human-life-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-01-precious-human-life-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-02-impermanence-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-02-impermanence-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-02-impermanence-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-03-karma-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-03-karma-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-04-suffering-of-samsara-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-04-suffering-of-samsara-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-04-suffering-of-samsara-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-06-the-three-lines-of-refuge-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-07-the-ultimate-refuge-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-07-the-ultimate-refuge-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-07-the-ultimate-refuge-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-08-compassion-for-all-beings-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-08-compassion-for-all-beings-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-08-compassion-for-all-beings-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-09-bodhichitta-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-09-bodhichitta-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-09-bodhichitta-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-10-supreme-kindness-of-the-guru-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-11-supplication-to-the-guru-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-11-supplication-to-the-guru-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-11-supplication-to-the-guru-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-12-mind-indivisible-from-the-guru-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-13-meditation-verses-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-13-meditation-verses-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-13-meditation-verses-lama-yadie.mp3",
+    "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-14-dedication-mingyur-rinpoche.mp3",
+    "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-14-dedication-lama-trinley.mp3",
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-14-dedication-lama-yadie.mp3",
+    "attachments/daily-chants/mingyur-rinpoche/daily-chants,-05-dedication-mingyur-rinpoche.mp3",
+    "attachments/daily-chants/lama-yadie/daily-chants,-05-dedication-prayers-lama-yadie.mp3",
+    "attachments/daily-chants/lama-yadie/daily-chants,-06-(short)-yongey-mingyur-rinpoche-long-life-prayer-lama-yadie.mp3"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -115,362 +169,362 @@
   ],
   "fileInfo": {
     "attachments/daily chants/Lama Trinley/daily chants, 01 refuge and bodhichitta - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 636998,
       "exportedPath": "attachments/daily-chants/lama-trinley/daily-chants,-01-refuge-and-bodhichitta-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Trinley/daily chants, 02 the four immeasurables - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 868550,
       "exportedPath": "attachments/daily-chants/lama-trinley/daily-chants,-02-the-four-immeasurables-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Yadie/daily chants, 01 refuge and bodhicitta - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1038627,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-01-refuge-and-bodhicitta-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Yadie/daily chants, 02 the four immeasurables - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1367770,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-02-the-four-immeasurables-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Yadie/daily chants, 03 supplication to the Dakpo Kagyu - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 10554513,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-03-supplication-to-the-dakpo-kagyu-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Yadie/daily chants, 04 mandala offering - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1088782,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-04-mandala-offering-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Yadie/daily chants, 05 dedication prayers - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 4920423,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-05-dedication-prayers-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Lama Yadie/daily chants, 06 (short) Yongey Mingyur Rinpoche long life prayer - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1147297,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-06-(short)-yongey-mingyur-rinpoche-long-life-prayer-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Mingyur Rinpoche/daily chants, 01 refuge and bodhichitta - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 785904,
       "exportedPath": "attachments/daily-chants/mingyur-rinpoche/daily-chants,-01-refuge-and-bodhichitta-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Mingyur Rinpoche/daily chants, 02 the four immeasurables - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1164480,
       "exportedPath": "attachments/daily-chants/mingyur-rinpoche/daily-chants,-02-the-four-immeasurables-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/daily chants/Mingyur Rinpoche/daily chants, 05 dedication - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 759384,
       "exportedPath": "attachments/daily-chants/mingyur-rinpoche/daily-chants,-05-dedication-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/heart sutra/heart sutra prajna paramita hridaya mantra chant with English translation - Lama Rinpoche.mp4": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 22604881,
       "exportedPath": "attachments/heart-sutra/heart-sutra-prajna-paramita-hridaya-mantra-chant-with-english-translation-lama-rinpoche.mp4",
       "dependencies": []
     },
     "attachments/heart sutra/heart sutra prayer card English only.pdf": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 102779,
       "exportedPath": "attachments/heart-sutra/heart-sutra-prayer-card-english-only.pdf",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path session intro - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 3025478,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path-session-intro-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 01 precious human life - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 163244,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-01-precious-human-life-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 02 impermanence - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 160724,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-02-impermanence-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 03 karma - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 155900,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-03-karma-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 04 suffering of samsara - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 141404,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-04-suffering-of-samsara-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 05 refuge prayer to the three jewels - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 147308,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 06 the three lines of refuge - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 469388,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 07 the ultimate refuge - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 170444,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-07-the-ultimate-refuge-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 08 compassion for all beings - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 146540,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-08-compassion-for-all-beings-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 09 bodhichitta - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 145124,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-09-bodhichitta-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 10 supreme kindness of the guru - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 166268,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 11 supplication to the guru - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 429620,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-11-supplication-to-the-guru-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 12 mind indivisible from the guru - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 156764,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 13 meditation verses - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 273644,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-13-meditation-verses-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Trinley/nectar of the path, 14 dedication - Lama Trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 248252,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-14-dedication-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 01 precious human life - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 170556,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-01-precious-human-life-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 02 impermanence - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 187957,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-02-impermanence-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 03 karma - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 190124,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-03-karma-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 04 suffering of samsara - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 199118,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-04-suffering-of-samsara-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 05 refuge prayer to the three jewels - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 210426,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 06 the three lines of refuge - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 190754,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 07 the ultimate refuge - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 216380,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-07-the-ultimate-refuge-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 08 compassion for all beings - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 221546,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-08-compassion-for-all-beings-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 09 bodhichitta - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 225279,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-09-bodhichitta-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 10 supreme kindness of the guru - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 211164,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 11 supplication to the guru - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 281138,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-11-supplication-to-the-guru-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 12 mind indivisible from the guru - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 194560,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 13 meditation verses - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 401047,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-13-meditation-verses-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Lama Yadie/nectar of the path, 14 dedication - Lama Yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 408613,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-14-dedication-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 01 precious human life - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 206664,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-01-precious-human-life-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 02 impermanence - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 202464,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-02-impermanence-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 03 karma - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 215808,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-03-karma-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 04 suffering of samsara - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 217008,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-04-suffering-of-samsara-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 05 refuge prayer to the three jewels - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 210432,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 06 the three lines of refuge - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 242832,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-06-the-three-lines-of-refuge-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 07 the ultimate refuge - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 175584,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-07-the-ultimate-refuge-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 08 compassion for all beings - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 186096,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-08-compassion-for-all-beings-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 09 bodhichitta - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 188880,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-09-bodhichitta-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 10 supreme kindness of the guru - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 202464,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-10-supreme-kindness-of-the-guru-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 11 supplication to the guru - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 587208,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-11-supplication-to-the-guru-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 12 mind indivisible from the guru - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 182160,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-12-mind-indivisible-from-the-guru-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 13 meditation verses - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 351048,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-13-meditation-verses-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar of the path/Mingyur Rinpoche/nectar of the path, 14 dedication - Mingyur Rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 349704,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-14-dedication-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "instructions for contemplating the four thoughts.md": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 6923,
       "exportedPath": "instructions-for-contemplating-the-four-thoughts.html",
       "dependencies": []
     },
     "instructions for meditating on stillness movement and awareness.md": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 3053,
       "exportedPath": "instructions-for-meditating-on-stillness-movement-and-awareness.html",
       "dependencies": []
     },
     "instructions on pointing out that all phenomena come from mind.md": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 4687,
       "exportedPath": "instructions-on-pointing-out-that-all-phenomena-come-from-mind.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1749169022513,
-      "sourceSize": 25752,
+      "modifiedTime": 1749174913540,
+      "sourceSize": 25750,
       "exportedPath": "index.html",
       "dependencies": [
         "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path-session-intro-lama-trinley.mp3",
@@ -491,7 +545,7 @@
         "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-02-impermanence-lama-yadie.mp3",
         "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-03-karma-mingyur-rinpoche.mp3",
         "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-03-karma-lama-trinley.mp3",
-        "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-03-karma-lama-trinley.mp3",
+        "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-03-karma-lama-yadie.mp3",
         "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-04-suffering-of-samsara-mingyur-rinpoche.mp3",
         "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-04-suffering-of-samsara-lama-trinley.mp3",
         "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-04-suffering-of-samsara-lama-yadie.mp3",
@@ -531,459 +585,465 @@
       ]
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path-session-intro-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 3025478,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path-session-intro-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/mingyur-rinpoche/daily-chants,-01-refuge-and-bodhichitta-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 785904,
       "exportedPath": "attachments/daily-chants/mingyur-rinpoche/daily-chants,-01-refuge-and-bodhichitta-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-trinley/daily-chants,-01-refuge-and-bodhichitta-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 636998,
       "exportedPath": "attachments/daily-chants/lama-trinley/daily-chants,-01-refuge-and-bodhichitta-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-yadie/daily-chants,-01-refuge-and-bodhicitta-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1038627,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-01-refuge-and-bodhicitta-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/mingyur-rinpoche/daily-chants,-02-the-four-immeasurables-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1164480,
       "exportedPath": "attachments/daily-chants/mingyur-rinpoche/daily-chants,-02-the-four-immeasurables-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-trinley/daily-chants,-02-the-four-immeasurables-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 868550,
       "exportedPath": "attachments/daily-chants/lama-trinley/daily-chants,-02-the-four-immeasurables-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-yadie/daily-chants,-02-the-four-immeasurables-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1367770,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-02-the-four-immeasurables-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-yadie/daily-chants,-03-supplication-to-the-dakpo-kagyu-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 10554513,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-03-supplication-to-the-dakpo-kagyu-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-yadie/daily-chants,-04-mandala-offering-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1088782,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-04-mandala-offering-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/heart-sutra/heart-sutra-prajna-paramita-hridaya-mantra-chant-with-english-translation-lama-rinpoche.mp4": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 22604881,
       "exportedPath": "attachments/heart-sutra/heart-sutra-prajna-paramita-hridaya-mantra-chant-with-english-translation-lama-rinpoche.mp4",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-01-precious-human-life-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 206664,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-01-precious-human-life-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-01-precious-human-life-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 163244,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-01-precious-human-life-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-01-precious-human-life-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 170556,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-01-precious-human-life-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-02-impermanence-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 202464,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-02-impermanence-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-02-impermanence-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 160724,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-02-impermanence-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-02-impermanence-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 187957,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-02-impermanence-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-03-karma-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 215808,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-03-karma-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-03-karma-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 155900,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-03-karma-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-04-suffering-of-samsara-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 217008,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-04-suffering-of-samsara-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-04-suffering-of-samsara-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 141404,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-04-suffering-of-samsara-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-04-suffering-of-samsara-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 199118,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-04-suffering-of-samsara-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 210432,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 147308,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 210426,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-05-refuge-prayer-to-the-three-jewels-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-06-the-three-lines-of-refuge-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 242832,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-06-the-three-lines-of-refuge-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 469388,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 190754,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-06-the-three-lines-of-refuge-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-07-the-ultimate-refuge-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 175584,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-07-the-ultimate-refuge-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-07-the-ultimate-refuge-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 170444,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-07-the-ultimate-refuge-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-07-the-ultimate-refuge-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 216380,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-07-the-ultimate-refuge-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-08-compassion-for-all-beings-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 186096,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-08-compassion-for-all-beings-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-08-compassion-for-all-beings-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 146540,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-08-compassion-for-all-beings-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-08-compassion-for-all-beings-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 221546,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-08-compassion-for-all-beings-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-09-bodhichitta-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 188880,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-09-bodhichitta-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-09-bodhichitta-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 145124,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-09-bodhichitta-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-09-bodhichitta-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 225279,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-09-bodhichitta-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-10-supreme-kindness-of-the-guru-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 202464,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-10-supreme-kindness-of-the-guru-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 166268,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 211164,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-10-supreme-kindness-of-the-guru-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-11-supplication-to-the-guru-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 587208,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-11-supplication-to-the-guru-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-11-supplication-to-the-guru-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 429620,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-11-supplication-to-the-guru-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-11-supplication-to-the-guru-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 281138,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-11-supplication-to-the-guru-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-12-mind-indivisible-from-the-guru-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 182160,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-12-mind-indivisible-from-the-guru-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 156764,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 194560,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-12-mind-indivisible-from-the-guru-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-13-meditation-verses-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 351048,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-13-meditation-verses-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-13-meditation-verses-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 273644,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-13-meditation-verses-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-13-meditation-verses-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 401047,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-13-meditation-verses-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-14-dedication-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 349704,
       "exportedPath": "attachments/nectar-of-the-path/mingyur-rinpoche/nectar-of-the-path,-14-dedication-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-14-dedication-lama-trinley.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 248252,
       "exportedPath": "attachments/nectar-of-the-path/lama-trinley/nectar-of-the-path,-14-dedication-lama-trinley.mp3",
       "dependencies": []
     },
     "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-14-dedication-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 408613,
       "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-14-dedication-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/mingyur-rinpoche/daily-chants,-05-dedication-mingyur-rinpoche.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 759384,
       "exportedPath": "attachments/daily-chants/mingyur-rinpoche/daily-chants,-05-dedication-mingyur-rinpoche.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-yadie/daily-chants,-05-dedication-prayers-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 4920423,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-05-dedication-prayers-lama-yadie.mp3",
       "dependencies": []
     },
     "attachments/daily-chants/lama-yadie/daily-chants,-06-(short)-yongey-mingyur-rinpoche-long-life-prayer-lama-yadie.mp3": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 1147297,
       "exportedPath": "attachments/daily-chants/lama-yadie/daily-chants,-06-(short)-yongey-mingyur-rinpoche-long-life-prayer-lama-yadie.mp3",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 27864,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 337,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 152403,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749169022513,
+      "modifiedTime": 1749174913540,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-03-karma-lama-yadie.mp3": {
+      "modifiedTime": 1749174913540,
+      "sourceSize": 190124,
+      "exportedPath": "attachments/nectar-of-the-path/lama-yadie/nectar-of-the-path,-03-karma-lama-yadie.mp3",
       "dependencies": []
     }
   }
